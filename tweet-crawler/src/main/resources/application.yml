@@ -1,0 +1,11 @@
+dev:
+  tweet:
+    consumerkey: REDACTED
+    consumersecret: REDACTED
+    token: REDACTED
+    secret: REDACTED
+  kafka:
+    bootstrapServer: 127.0.0.1:9092
+    topic: tweets
+application:
+  terms: spacex
